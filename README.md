@@ -72,7 +72,11 @@ Related works are list as below:
 
 ### Simulators
 
+1. [iGibson](http://svl.stanford.edu/igibson/)  
 
+   iGibson is a very realistic 3D home scene simulator, which consists of 15 fully interactive scenes and 500+ object models. **But it might not be fully suitable for the bimanual manipulation.**
+
+   ![igibson](README.assets/igibson.png)
 
 ### Labs
 
