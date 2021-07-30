@@ -4,7 +4,7 @@ Robot bimanual manipulation / dual-arm manipulation
 
 
 
-Related works are list as below:
+Related works are listed as follows:
 
 ## Survey
 
@@ -64,7 +64,7 @@ Related works are list as below:
 
 2. ABB YuMi
 
-   ![](README.assets/ABB-Yumi.jpg)
+   ![ABB YuMi](README.assets/ABB-Yumi.jpg)
 
 3. Rethink Baxter and Sawyer (Of course it's not dual-arm)
 
