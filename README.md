@@ -26,8 +26,10 @@ Related works are listed as follows:
 
 2. [Fast Object Learning and Dual-arm Coordination for Cluttered Stowing, Picking, and Packing](https://arxiv.org/pdf/1810.02977.pdf)  ICRA 2018
 
-
-
+**Benchmark**
+1. [SURREAL: Open-Source Reinforcement Learning Framework and Robot Manipulation Benchmark](http://proceedings.mlr.press/v87/fan18a/fan18a.pdf)  CoRL 2018
+2. [robosuite: A Modular Simulation Framework and Benchmark for Robot Learning](https://arxiv.org/pdf/2009.12293)  arxiv 2020
+ 
 **Imitation Learning**
 
 1. [Imitation learning of dual-arm manipulation tasks in humanoid robots](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1081.2813&rep=rep1&type=pdf)  IJHR 2008
@@ -39,6 +41,17 @@ Related works are listed as follows:
 
 1. [Exploiting symmetries in reinforcement learning of bimanual robotic tasks](https://ieeexplore.ieee.org/abstract/document/8637816/?casa_token=yrF2c8vpWJoAAAAA:SH4mkmqsfU0hmQHKP4wDimRkREx41QclGn-7GXWxZKWDB86MX9gFMcsQd1rbvGrJoz4jlXi1)  RA-L 2019
 2. [Reinforcement Learning of Clothing Assistance with a Dual-arm Robot](https://www.academia.edu/download/50846824/Reinforcement_learning_of_clothing_assis20161212-12628-ndv3vy.pdf)  RAS 2011
+3. [Reinforcement Learning of Bimanual Robot Skills](https://link.springer.com/content/pdf/10.1007/978-3-030-26326-3.pdf)  Springer 2020
+4. [Bimanual Regrasping for Suture Needles using Reinforcement Learning for Rapid Motion Planning](https://arxiv.org/pdf/2011.04813)  arxiv 2020
+5. [Extracting bimanual synergies with reinforcement learning](https://ieeexplore.ieee.org/iel7/8119304/8202121/08206356.pdf)  IROS 2017
+6. [Trajectory-model-based reinforcement learning: Application to bimanual humanoid motor learning with a closed-chain constraint](https://ieeexplore.ieee.org/abstract/document/7030010/)  Humanoids 2013
+7. [Efficient bimanual manipulation using learned task schemas](https://ieeexplore.ieee.org/abstract/document/9196958/)  
+8. [Using dimensionality reduction to exploit constraints in reinforcement learning](https://ieeexplore.ieee.org/iel5/5639431/5648787/05650243.pdf)  IROS 2010
+9. [Dimensionality reduced reinforcement learning for assistive robots](https://www.aaai.org/ocs/index.php/FSS/FSS16/paper/viewPaper/14076)  AAAI 2016
+10. [Bimanual robot skills: MP encoding, dimensionality reduction and reinforcement learning](https://upcommons.upc.edu/handle/2117/119092)  
+11. 
+12. [Door Opening by joining Reinforcement Learning and Intelligent Control](https://ieeexplore.ieee.org/abstract/document/8023522/)  ICRA 2017
+13. [Disentangled Attention as Intrinsic Regularization for Bimanual Multi-Object Manipula](https://arxiv.org/pdf/2106.05907.pdf)  arxiv 2021
 
 ### Planning
 
@@ -51,6 +64,7 @@ Related works are listed as follows:
 3. [Learning and Composing Primitive Skills for Dual-arm Manipulation](https://arxiv.org/pdf/1905.10578.pdf)  2019
 4. [Composite-Learning-Based Adaptive Neural Control for Dual-Arm Robots With Relative Motion](https://ieeexplore.ieee.org/abstract/document/9305975/)  Aerospace Science and Technology 2021
 5. [Visual Servoing of Humanoid Dual-arm Robot with Neural Learning Enhanced Skill Transferring Control](https://researchportal.port.ac.uk/portal/files/7703646/Postprint.pdf)  IJHR 2018
+6. [Dimensionality reduction for dynamic movement primitives and application to bimanual manipulation of clothes](https://ieeexplore.ieee.org/abstract/document/8344486/)  T-RO 2018
 
 ## Application
 
@@ -59,6 +73,7 @@ Related works are listed as follows:
 1. [Bimanual robotic cloth manipulation for laundry folding](https://ieeexplore.ieee.org/abstract/document/6095109/?casa_token=DHO31F1XhDkAAAAA:l5cLtrNkd-HU2IkWRdeMTjMy8CSM4E39tAFsaouhBsBwjGElVScntKAHvcVoT8F4WKrFM3eu)   IROS 2011
 2. [Benchmarking Bimanual Cloth Manipulation](https://ieeexplore.ieee.org/abstract/document/8957044/?casa_token=7YDA1inxidMAAAAA:ae_aURxVJK_kBxHpJ78zuAF2yHyGqwPbxnVngts0mTInFP9O5Q8ydwY6bgTdVzhOL7l5r2xy)   RA-L 2020
 3. [Dimensionality reduction for dynamic movement primitives and application to bimanual manipulation of clothes](https://ieeexplore.ieee.org/abstract/document/8344486/?casa_token=ysIfcg43YogAAAAA:WNm35Yx_e0attVsn1FsZjn5LxpxJ4W5wcYazVqvXQmHgAOuqqWfKozURCso7NORArhyRXDnp)  T-RO 2018
+4. [Dynamic cloth manipulation with deep reinforcement learning](https://ieeexplore.ieee.org/abstract/document/9196659/)  ICRA 2020
 
 ### Assembly 
 
