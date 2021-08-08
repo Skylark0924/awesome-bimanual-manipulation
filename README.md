@@ -9,6 +9,7 @@ Related works are listed as follows:
 
 1. [Dual arm manipulation—A survey](https://www.sciencedirect.com/science/article/pii/S092188901200108X)  2012 | [Note](./Notes/Dual%20arm%20manipulation%20a%20survey.md)
 2. [Two Arms are Better than One: A Behavior Based Control System for Assistive Bimanual Manipulation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.94.3846&rep=rep1&type=pdf)  2007
+3. [Reinforcement Learning of Bimanual Robot Skills](https://link.springer.com/content/pdf/10.1007/978-3-030-26326-3.pdf)  Springer 2020
 
 ## Talk
 
@@ -39,9 +40,9 @@ Related works are listed as follows:
 
 **Reinforcement Learning**
 
-1. [Exploiting symmetries in reinforcement learning of bimanual robotic tasks](https://ieeexplore.ieee.org/abstract/document/8637816/?casa_token=yrF2c8vpWJoAAAAA:SH4mkmqsfU0hmQHKP4wDimRkREx41QclGn-7GXWxZKWDB86MX9gFMcsQd1rbvGrJoz4jlXi1)  RA-L 2019
-2. [Reinforcement Learning of Clothing Assistance with a Dual-arm Robot](https://www.academia.edu/download/50846824/Reinforcement_learning_of_clothing_assis20161212-12628-ndv3vy.pdf)  RAS 2011
-3. [Reinforcement Learning of Bimanual Robot Skills](https://link.springer.com/content/pdf/10.1007/978-3-030-26326-3.pdf)  Springer 2020
+1. [**Reinforcement Learning of Bimanual Robot Skills**](https://link.springer.com/content/pdf/10.1007/978-3-030-26326-3.pdf)  **Springer 2020**
+2. [Exploiting symmetries in reinforcement learning of bimanual robotic tasks](https://ieeexplore.ieee.org/abstract/document/8637816/?casa_token=yrF2c8vpWJoAAAAA:SH4mkmqsfU0hmQHKP4wDimRkREx41QclGn-7GXWxZKWDB86MX9gFMcsQd1rbvGrJoz4jlXi1)  RA-L 2019
+3. [Reinforcement Learning of Clothing Assistance with a Dual-arm Robot](https://www.academia.edu/download/50846824/Reinforcement_learning_of_clothing_assis20161212-12628-ndv3vy.pdf)  RAS 2011
 4. [Bimanual Regrasping for Suture Needles using Reinforcement Learning for Rapid Motion Planning](https://arxiv.org/pdf/2011.04813)  arxiv 2020
 5. [Extracting bimanual synergies with reinforcement learning](https://ieeexplore.ieee.org/iel7/8119304/8202121/08206356.pdf)  IROS 2017
 6. [Trajectory-model-based reinforcement learning: Application to bimanual humanoid motor learning with a closed-chain constraint](https://ieeexplore.ieee.org/abstract/document/7030010/)  Humanoids 2013
@@ -49,9 +50,8 @@ Related works are listed as follows:
 8. [Using dimensionality reduction to exploit constraints in reinforcement learning](https://ieeexplore.ieee.org/iel5/5639431/5648787/05650243.pdf)  IROS 2010
 9. [Dimensionality reduced reinforcement learning for assistive robots](https://www.aaai.org/ocs/index.php/FSS/FSS16/paper/viewPaper/14076)  AAAI 2016
 10. [Bimanual robot skills: MP encoding, dimensionality reduction and reinforcement learning](https://upcommons.upc.edu/handle/2117/119092)  
-11. 
-12. [Door Opening by joining Reinforcement Learning and Intelligent Control](https://ieeexplore.ieee.org/abstract/document/8023522/)  ICRA 2017
-13. [Disentangled Attention as Intrinsic Regularization for Bimanual Multi-Object Manipula](https://arxiv.org/pdf/2106.05907.pdf)  arxiv 2021
+11. [Door Opening by joining Reinforcement Learning and Intelligent Control](https://ieeexplore.ieee.org/abstract/document/8023522/)  ICRA 2017
+12. [Disentangled Attention as Intrinsic Regularization for Bimanual Multi-Object Manipula](https://arxiv.org/pdf/2106.05907.pdf)  arxiv 2021
 
 ### Planning
 
