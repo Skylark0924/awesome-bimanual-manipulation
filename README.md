@@ -170,15 +170,15 @@ Related works are listed as follows:
 
 1. PR2
 
-   ![pr2](README.assets/pr2.jpg)
+   ![pr2](./img/pr2.jpg)
 
 2. ABB YuMi
 
-   ![ABB YuMi](README.assets/ABB-Yumi.jpg)
+   ![ABB YuMi](./img/ABB-Yumi.jpg)
 
 3. Rethink Baxter and Sawyer (Of course it's not dual-arm)
 
-   ![baxter-sawyer](README.assets/baxter-sawyer.jpg)
+   ![baxter-sawyer](./img/baxter-sawyer.jpg)
 
 ### Simulators
 
@@ -186,7 +186,7 @@ Related works are listed as follows:
 
    iGibson is a very realistic 3D home scene simulator, which consists of 15 fully interactive scenes and 500+ object models. **But it might not be fully suitable for the bimanual manipulation.**
 
-   ![igibson](README.assets/igibson.png)
+   ![igibson](./img/igibson.png)
 
 ### Scientists/Labs
 
