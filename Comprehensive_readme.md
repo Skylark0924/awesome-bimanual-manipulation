@@ -27,7 +27,6 @@ Content
   - [Related platforms/simulators/labs](#related-platformssimulatorslabs)
     - [Platforms](#platforms)
     - [Simulators](#simulators)
-    - [Scientists/Labs](#scientistslabs)
 
 ## Survey
 
@@ -509,18 +508,4 @@ Content
    iGibson is a very realistic 3D home scene simulator, which consists of 15 fully interactive scenes and 500+ object models. **But it might not be fully suitable for the bimanual manipulation.**
 
    ![igibson](./img/igibson.png)
-
-### Scientists/Labs
-
-1. [Sylvain Calinon](https://calinon.ch/#)  EPFL
-
-   *human-centred robot learning, Learning from Demonstration, Imitation Learning*
-
-2. [Sergey Levine](http://people.eecs.berkeley.edu/~svlevine/)  UC Berkeley | [Robotic Artificial Intelligence and Learning Lab (RAIL)](http://rail.eecs.berkeley.edu/)
-
-   *Robot learning, DRL, DL*
-
-3. [Chelsea Finn](https://ai.stanford.edu/~cbfinn/)  Stanford
-
-   *DRL, offline RL, Meta-learning*
 
