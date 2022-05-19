@@ -6,6 +6,29 @@ Related works are listed as follows:
 
 > Note that some works are just pre-printed articles.
 
+---
+
+Content
+- [awesome-bimanual-manipulation](#awesome-bimanual-manipulation)
+  - [Survey](#survey)
+  - [Workshop](#workshop)
+  - [Methodology](#methodology)
+    - [Learning](#learning)
+    - [Planning and Control](#planning-and-control)
+    - [Telemanipulation](#telemanipulation)
+  - [Devices](#devices)
+      - [End-effector](#end-effector)
+  - [Application](#application)
+    - [Fold clothes](#fold-clothes)
+    - [Assembly](#assembly)
+    - [Bin Packing](#bin-packing)
+    - [Exoskeletons](#exoskeletons)
+    - [Bio-medical](#bio-medical)
+  - [Related platforms/simulators/labs](#related-platformssimulatorslabs)
+    - [Platforms](#platforms)
+    - [Simulators](#simulators)
+    - [Scientists/Labs](#scientistslabs)
+
 ## Survey
 
 1. [Reinforcement Learning of Bimanual Robot Skills](https://link.springer.com/content/pdf/10.1007/978-3-030-26326-3.pdf)  Springer 2020

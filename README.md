@@ -6,7 +6,30 @@ Related works are listed as follows:
 
 > Note that some works are just pre-printed articles.
 
-[Comprehensive version (with Authors & Figures)](./Comprehensive_readme.md)
+**[Comprehensive version (with Authors & Figures)](./Comprehensive_readme.md)**
+
+---
+
+Content
+- [awesome-bimanual-manipulation](#awesome-bimanual-manipulation)
+  - [Survey](#survey)
+  - [Workshop](#workshop)
+  - [Methodology](#methodology)
+    - [Learning](#learning)
+    - [Planning and Control](#planning-and-control)
+    - [Telemanipulation](#telemanipulation)
+  - [Devices](#devices)
+      - [End-effector](#end-effector)
+  - [Application](#application)
+    - [Fold clothes](#fold-clothes)
+    - [Assembly](#assembly)
+    - [Bin Packing](#bin-packing)
+    - [Exoskeletons](#exoskeletons)
+    - [Bio-medical](#bio-medical)
+  - [Related platforms/simulators/labs](#related-platformssimulatorslabs)
+    - [Platforms](#platforms)
+    - [Simulators](#simulators)
+    - [Scientists/Labs](#scientistslabs)
 
 ## Survey
 
@@ -194,10 +217,6 @@ Related works are listed as follows:
 1. [Human-inspired control of dual-arm exoskeleton robots with force and impedance adaptation](https://ieeexplore.ieee.org/abstract/document/8497078/) T-SMC 2020
 1. [Coordination Control of a Dual-Arm Exoskeleton Robot Using Human Impedance Transfer Skills](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7944582) T-SMC 2019
 1. [Asymmetric bimanual control of dual-arm exoskeletons for human-cooperative manipulations](https://ieeexplore.ieee.org/abstract/document/8103340/?casa_token=itLqk0n913gAAAAA:jNaUD79YaXBjW8Ztjd0JpvgT35tpdL-B_L8AHt7hBf_gMLSmb0U3nZbtN7JfmT0bPj9gMjOC)  T-RO 2018
-
-### Knotting of Rope
-
-1. [In-air Knotting of Rope using Dual-Arm Robot based on Deep Learning](https://arxiv.org/pdf/2103.09402.pdf)  2021
 
 ### Bio-medical
 
