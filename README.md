@@ -178,6 +178,8 @@ Content
 
 ## Application
 
+> TODO: Reclassification
+
 ### Fold clothes
 
 1. [Benchmarking Bimanual Cloth Manipulation](https://ieeexplore.ieee.org/abstract/document/8957044/?casa_token=7YDA1inxidMAAAAA:ae_aURxVJK_kBxHpJ78zuAF2yHyGqwPbxnVngts0mTInFP9O5Q8ydwY6bgTdVzhOL7l5r2xy)   RA-L 2020
