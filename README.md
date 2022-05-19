@@ -4,7 +4,7 @@ This repository is mainly about robot bimanual manipulation / dual-arm manipulat
 
 Related works are listed as follows:
 
-> Note that some work are just pre-printed articles.
+> Note that some works are just pre-printed articles.
 
 [Comprehensive version (with Authors & Figures)](./Comprehensive_readme.md)
 
