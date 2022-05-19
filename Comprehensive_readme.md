@@ -12,6 +12,7 @@ Content
 - [awesome-bimanual-manipulation](#awesome-bimanual-manipulation)
   - [Survey](#survey)
   - [Workshop](#workshop)
+  - [Benchmark](#benchmark)
   - [Methodology](#methodology)
     - [Learning](#learning)
     - [Planning and Control](#planning-and-control)
@@ -42,13 +43,7 @@ Content
 
 [2022 ICRA Workshop on Bi-manual Manipulation: Addressing Real-world Challenges](https://sites.google.com/view/bm4rw/home)
 
-
-
-## Methodology
-
-### Learning 
-
-**Benchmark**
+## Benchmark
 
 1. [robosuite: A Modular Simulation Framework and Benchmark for Robot Learning](https://arxiv.org/pdf/2009.12293)  arxiv 2020
 
@@ -69,6 +64,10 @@ Content
    > Linxi Fan, Yuke Zhu, Jiren Zhu, Zihua Liu, Orien Zeng, Anchit Gupta, Joan Creus-Costa, Silvio Savarese, Li Fei-Fei
 
    ![image-20220519220407152](img/image-20220519220407152.png)
+
+## Methodology
+
+### Learning 
 
 **Deep Learning**
 

@@ -14,6 +14,7 @@ Content
 - [awesome-bimanual-manipulation](#awesome-bimanual-manipulation)
   - [Survey](#survey)
   - [Workshop](#workshop)
+  - [Benchmark](#benchmark)
   - [Methodology](#methodology)
     - [Learning](#learning)
     - [Planning and Control](#planning-and-control)
@@ -44,18 +45,16 @@ Content
 
 [2022 ICRA Workshop on Bi-manual Manipulation: Addressing Real-world Challenges](https://sites.google.com/view/bm4rw/home)
 
-
-
-## Methodology
-
-### Learning 
-
-**Benchmark**
+## Benchmark
 
 1. [robosuite: A Modular Simulation Framework and Benchmark for Robot Learning](https://arxiv.org/pdf/2009.12293)  arxiv 2020
 1. [The KIT Bimanual Manipulation Dataset](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9555788) Humanoids 2020
 1. [DQ robotics: A library for robot modeling and control](https://ieeexplore.ieee.org/abstract/document/9136790/) RA-M 2020
 2. [Surreal: Open-source reinforcement learning framework and robot manipulation benchmark](http://proceedings.mlr.press/v87/fan18a.html) CoRL 2018
+
+## Methodology
+
+### Learning 
 
 **Deep Learning**
 
