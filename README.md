@@ -59,7 +59,7 @@ Content
 **Deep Learning**
 
 1. [FabricFlowNet: Bimanual Cloth Manipulation with a Flow-based Policy](https://proceedings.mlr.press/v164/weng22a/weng22a.pdf) CoRL 2021 | [web](https://sites.google.com/view/fabricflownet)
-2. [In-air Knotting of Rope using Dual-Arm Robot based on Deep Learning](https://arxiv.org/pdf/2103.09402.pdf)  2021
+2. [In-air Knotting of Rope using Dual-Arm Robot based on Deep Learning](https://arxiv.org/pdf/2103.09402.pdf)  iros 2021
 2. [Fast Object Learning and Dual-arm Coordination for Cluttered Stowing, Picking, and Packing](https://arxiv.org/pdf/1810.02977.pdf)  ICRA 2018
 
 **Imitation Learning / Learning from Demonstration (LfD)**

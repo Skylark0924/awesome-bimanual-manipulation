@@ -95,6 +95,8 @@ Content
 
    > Junjia Liu, Yiting Chen, Zhipeng Dong, Shixiong Wang, Sylvain Calinon, Miao Li, and Fei Chen
 
+   ![image-20220520230009629](img/image-20220520230009629.png)
+
    ![image-20220519225802707](img/image-20220519225802707.png)
 
 2. [Passive Bimanual Skills Learning From Demonstration With Motion Graph Attention Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9720487) RA-L 2022
@@ -205,6 +207,12 @@ Content
 
    ![image-20220519221027134](img/image-20220519221027134.png)
 
+3. [Efficient bimanual manipulation using learned task schemas](https://ieeexplore.ieee.org/abstract/document/9196958/?casa_token=4L7JbTtxEHIAAAAA:6YMmL2K8cUOA2t4L10DxCakin42t5Hlzn2HF6d8GBQ6Aff_S6vsB3qIrl6agNjKpIE7V5uL5)  ICRA 2020 | [video](https://www.youtube.com/watch?v=TBUEHk37a64)
+
+   > Rohan Chitnis, Shubham Tulsiani, Saurabh Gupta, and Abhinav Gupta
+
+   <img src="img/image-20220519214701249.png" alt="image-20220519214701249" style="zoom:50%;" />
+
 3. [Reinforcement Learning of Bimanual Robot Skills](https://link.springer.com/content/pdf/10.1007/978-3-030-26326-3.pdf)  Springer 2020
 
    > Adrià Colomé, Carme Torras
@@ -223,7 +231,7 @@ Content
 
    <img src="img/image-20220519221412811.png" alt="image-20220519221412811" style="zoom:50%;" />
 
-7. [Door Opening by joining Reinforcement Learning and Intelligent Control](https://ieeexplore.ieee.org/abstract/document/8023522/)  ICRA 2017
+7. [Door Opening by joining Reinforcement Learning and Intelligent Control](https://ieeexplore.ieee.org/abstract/document/8023522/)  ICAR 2017
 
    > Bojan Nemec, Leon Zlajpah, and Ales Ude
 
@@ -240,12 +248,6 @@ Content
    > Norikazu Sugimoto, and Jun Morimoto
 
    <img src="img/image-20220519221714966.png" alt="image-20220519221714966" style="zoom:50%;" />
-
-10. [Efficient bimanual manipulation using learned task schemas](https://ieeexplore.ieee.org/abstract/document/9196958/?casa_token=4L7JbTtxEHIAAAAA:6YMmL2K8cUOA2t4L10DxCakin42t5Hlzn2HF6d8GBQ6Aff_S6vsB3qIrl6agNjKpIE7V5uL5)  ICRA 2020 | [video](https://www.youtube.com/watch?v=TBUEHk37a64)
-
-    > Rohan Chitnis, Shubham Tulsiani, Saurabh Gupta, and Abhinav Gupta
-
-    <img src="img/image-20220519214701249.png" alt="image-20220519214701249" style="zoom:50%;" />
 
 11. [Reinforcement Learning of Clothing Assistance with a Dual-arm Robot](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6100915)  RAS 2011
 
@@ -429,6 +431,8 @@ Content
 
    > Amy Kyungwon Han, Amar Hajj-Ahmad, and Mark R. Cutkosky
 
+   ![image-20220520231334081](img/image-20220520231334081.png)
+   
    <img src="img/image-20220519231040576.png" alt="image-20220519231040576" style="zoom:50%;" />
 
 
