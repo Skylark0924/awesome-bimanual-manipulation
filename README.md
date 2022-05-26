@@ -101,28 +101,23 @@ Content
 **Reinforcement Learning**
 
 1. [Bi-Manual Manipulation and Attachment via Sim-to-Real Reinforcement Learning](https://arxiv.org/pdf/2203.08277.pdf) arxiv 2022
-
 2. [DAIR: Disentangled Attention Intrinsic Regularization for Safe and Efficient Bimanual Manipulation](https://arxiv.org/pdf/2106.05907.pdf)  arxiv 2021
-
 3. [Reinforcement Learning of Bimanual Robot Skills](https://link.springer.com/content/pdf/10.1007/978-3-030-26326-3.pdf)  Springer 2020
-
 4. [Bimanual Regrasping for Suture Needles using Reinforcement Learning for Rapid Motion Planning](https://arxiv.org/pdf/2011.04813)  arxiv 2020
-
 5. [Exploiting symmetries in reinforcement learning of bimanual robotic tasks](https://ieeexplore.ieee.org/abstract/document/8637816/?casa_token=yrF2c8vpWJoAAAAA:SH4mkmqsfU0hmQHKP4wDimRkREx41QclGn-7GXWxZKWDB86MX9gFMcsQd1rbvGrJoz4jlXi1)  RA-L 2019
-
 6. [Door Opening by joining Reinforcement Learning and Intelligent Control](https://ieeexplore.ieee.org/abstract/document/8023522/)  ICRA 2017
-
 7. [Extracting bimanual synergies with reinforcement learning](https://ieeexplore.ieee.org/iel7/8119304/8202121/08206356.pdf)  IROS 2017
-
-9. [Trajectory-model-based reinforcement learning: Application to bimanual humanoid motor learning with a closed-chain constraint](https://ieeexplore.ieee.org/abstract/document/7030010/)  Humanoids 2013
-
-10. [Efficient bimanual manipulation using learned task schemas](https://ieeexplore.ieee.org/abstract/document/9196958/?casa_token=4L7JbTtxEHIAAAAA:6YMmL2K8cUOA2t4L10DxCakin42t5Hlzn2HF6d8GBQ6Aff_S6vsB3qIrl6agNjKpIE7V5uL5)  ICRA 2020 | [video](https://www.youtube.com/watch?v=TBUEHk37a64)
-
-11. [Reinforcement Learning of Clothing Assistance with a Dual-arm Robot](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6100915)  RAS 2011
-
+8. [Trajectory-model-based reinforcement learning: Application to bimanual humanoid motor learning with a closed-chain constraint](https://ieeexplore.ieee.org/abstract/document/7030010/)  Humanoids 2013
+9. [Efficient bimanual manipulation using learned task schemas](https://ieeexplore.ieee.org/abstract/document/9196958/?casa_token=4L7JbTtxEHIAAAAA:6YMmL2K8cUOA2t4L10DxCakin42t5Hlzn2HF6d8GBQ6Aff_S6vsB3qIrl6agNjKpIE7V5uL5)  ICRA 2020 | [video](https://www.youtube.com/watch?v=TBUEHk37a64)
+10. [Reinforcement Learning of Clothing Assistance with a Dual-arm Robot](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6100915)  RAS 2011
 11. [Using dimensionality reduction to exploit constraints in reinforcement learning](https://ieeexplore.ieee.org/iel5/5639431/5648787/05650243.pdf)  IROS 2010
 
-    
+
+
+
+### Modelling 
+
+1. [Redundancy Resolution for Dual-Arm Robots Inspired by Human Asymmetric Bimanual Action: Formulation and Experiments](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7140049) ICRA 2015
 
 ### Planning and Control 
 

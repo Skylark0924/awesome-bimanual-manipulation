@@ -263,6 +263,14 @@ Content
 
     
 
+### Modelling 
+
+1. [Redundancy Resolution for Dual-Arm Robots Inspired by Human Asymmetric Bimanual Action: Formulation and Experiments](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7140049) ICRA 2015
+
+   <img src="img/image-20220526130001143.png" alt="image-20220526130001143" style="zoom:50%;" />
+
+   <img src="img/image-20220526130020430.png" alt="image-20220526130020430" style="zoom:67%;" />
+
 ### Planning and Control 
 
 1. [Keypoint-Based Planar Bimanual Shaping of Deformable Linear Objects Under Environmental Constraints With Hierarchical Action Framework](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9730102) RA-L 2022
