@@ -71,6 +71,12 @@ Content
 
 **Deep Learning**
 
+1. [Learning where to trust unreliable models in an unstructured world for deformable object manipulation](https://www.science.org/doi/pdf/10.1126/scirobotics.abd8170) Science Robotics 2021
+
+   > P. Mitrano, D. Mc Conachie, D. Berenson
+
+   ![image-20220527213914315](img/image-20220527213914315.png)![image-20220527213946860](img/image-20220527213946860.png)
+
 1. [FabricFlowNet: Bimanual Cloth Manipulation with a Flow-based Policy](https://proceedings.mlr.press/v164/weng22a/weng22a.pdf) CoRL 2021 | [web](https://sites.google.com/view/fabricflownet)
 
    > Thomas Weng, Sujay Bajracharya, Yufei Wang, Khush Agrawal, and David Held
