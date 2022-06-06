@@ -191,6 +191,12 @@ Content
 
     <img src="img/image-20220519214253876.png" alt="image-20220519214253876" style="zoom:50%;" />
 
+15. [Coordinate Change Dynamic Movement Primitives – A Leader-Follower Approach]([IEEE Xplore Full-Text PDF:](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7759806)) IROS 2016
+
+    > You Zhou, Martin Do, and Tamim Asfour
+
+    ![image-20220606132437520](img/image-20220606132437520.png)
+
 15. [Learning bimanual end-effector poses from demonstrations using task-parameterized dynamical systems](https://ieeexplore.ieee.org/abstract/document/7353413/)  IROS 2015
 
     > Joao Silverio, Leonel Rozo, Sylvain Calinon, Darwin G. Caldwell

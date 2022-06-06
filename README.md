@@ -95,6 +95,8 @@ Content
 
 15. [Compliant Movement Primitives in a Bimanual Setting](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8246899) Humanoids 2017
 
+16. [Coordinate Change Dynamic Movement Primitives – A Leader-Follower Approach]([IEEE Xplore Full-Text PDF:](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7759806)) IROS 2016
+
 16. [Learning bimanual end-effector poses from demonstrations using task-parameterized dynamical systems](https://ieeexplore.ieee.org/abstract/document/7353413/)  IROS 2015
 
     
