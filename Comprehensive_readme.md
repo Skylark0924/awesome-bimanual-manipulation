@@ -397,6 +397,8 @@ Content
 
     > Nikolaus Vahrenkamp, Markus Przybylski, Tamim Asfour and Rudiger Dillmann
 
+    ![image-20220606131132118](img/image-20220606131132118.png)
+    
     ![image-20220519225321319](img/image-20220519225321319.png)
 
 ### Telemanipulation
