@@ -8,7 +8,8 @@ Related works are listed as follows:
 
 ---
 
-Content
+**Content**
+
 - [awesome-bimanual-manipulation](#awesome-bimanual-manipulation)
   - [Survey](#survey)
   - [Workshop](#workshop)
