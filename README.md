@@ -220,7 +220,7 @@ Content
 
 1. [Anthropomorphic Dual-Arm Coordinated Control for a Single-Port Surgical Robot Based on Dual-Step Optimization](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9720487) T-MRB 2022
 
-## Related platforms/Repositories/Labs
+## Related Repositories/Robots/Labs
 
 ### Repositories
 
@@ -240,7 +240,7 @@ Content
 
    
 
-### Platforms
+### Robots
 
 1. CURI
 
@@ -258,7 +258,7 @@ Content
 
    ![baxter-sawyer](./img/baxter-sawyer.jpg)
 
-
-
+### Labs
+1. [CLOVER Lab (Collaborative and Versatile Robots Laboratory)](https://feichenlab.com/), The Chinese University of Hong Kong.
 
 
