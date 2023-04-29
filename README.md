@@ -220,26 +220,45 @@ Content
 
 1. [Anthropomorphic Dual-Arm Coordinated Control for a Single-Port Surgical Robot Based on Dual-Step Optimization](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9720487) T-MRB 2022
 
-## Related platforms/simulators/labs
+## Related platforms/Repositories/Labs
+
+### Repositories
+
+1. [Rofunc](https://github.com/Skylark0924/Rofunc)
+   
+   ![](./img/rofunc.png)
+
+   [![Release](https://img.shields.io/github/v/release/Skylark0924/Rofunc)](https://pypi.org/project/rofunc/)
+    ![License](https://img.shields.io/github/license/Skylark0924/Rofunc?color=blue)
+    ![](https://img.shields.io/github/downloads/skylark0924/Rofunc/total)
+   [![](https://img.shields.io/github/issues-closed-raw/Skylark0924/Rofunc?color=brightgreen)](https://github.com/Skylark094/issues?q=is%3Aissue+is%3Aclosed)
+   [![](https://img.shields.io/github/issues-raw/Skylark0924/Rofunc?color=orange)](https://github.com/Skylark0924/Rofunc/issues?q=is%3Aopen+is%3Aissue)
+   [![Documentation Status](https://readthedocs.org/projects/rofunc/badge/?version=latest)](https://rofunc.readthedocs.io/en/latest/?badge=latest)
+   [![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2FSkylark0924%2FRofunc%2Fbadge%3Fref%3Dmain&style=flat)](https://actions-badge.atrox.dev/Skylark0924/Rofunc/goto?ref=main)
+
+   > **Repository address: https://github.com/Skylark0924/Rofunc**
+
+   
 
 ### Platforms
 
-1. PR2
+1. CURI
+
+   
+
+2. PR2
 
    ![pr2](./img/pr2.jpg)
 
-2. ABB YuMi
+3. ABB YuMi
 
    ![ABB YuMi](./img/ABB-Yumi.jpg)
 
-3. Rethink Baxter and Sawyer (Of course it's not dual-arm)
+4. Rethink Baxter and Sawyer (Of course it's not dual-arm)
 
    ![baxter-sawyer](./img/baxter-sawyer.jpg)
 
-### Simulators
 
-1. [iGibson](http://svl.stanford.edu/igibson/)  
 
-   iGibson is a very realistic 3D home scene simulator, which consists of 15 fully interactive scenes and 500+ object models. **But it might not be fully suitable for the bimanual manipulation.**
 
-   ![igibson](./img/igibson.png)
+
