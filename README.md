@@ -244,7 +244,7 @@ Content
 
 1. CURI
 
-   
+   ![CURI](./img/CURI.png)
 
 2. PR2
 
